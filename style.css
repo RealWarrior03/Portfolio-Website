@@ -1,0 +1,12 @@
+body {
+    background: rgb(40, 40, 40);
+    color: white;
+}
+
+a {
+    color: white;
+}
+
+a:hover {
+    color: purple;
+}
