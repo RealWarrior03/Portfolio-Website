@@ -1,0 +1,40 @@
+body {
+    background-color: aliceblue;
+}
+
+nav {
+    margin: 1em 0em;
+}
+
+.navItem {
+    margin: 0em 1em;
+    text-decoration: none;
+    color: black;
+}
+
+.navItem:hover {
+    color: blue;
+}
+
+#apps, #resume {
+    border-radius: 1em;
+    background-color: white;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4);
+    padding: 0.1em 1em;
+    margin: 5ex 2ex;
+}
+
+.appTitle, .resumeTitle {
+    margin: 0;
+}
+
+.app, .resumeEntry {
+    border-radius: 1em;
+    box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.4);
+    margin: 1em;
+    padding: 0.75em;
+}
+
+.tableLead {
+    width: 15ex;
+}
